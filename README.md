@@ -8,4 +8,4 @@ Mac OS X, Windows and Linux.
 
 The Software I written in Python with Kivy.
 
-It's also a Sample how you can write Business Software with <b>Kivy</> and <b>Python</b>.
+It's also a Sample how you can write Business Software with <b>Kivy</b> and <b>Python</b>.
